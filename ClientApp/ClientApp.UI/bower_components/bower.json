@@ -1,0 +1,20 @@
+{
+  "name": "textAngular",
+  "authors": [
+    "Patryk Wójtowicz <patryk.wojtowicz@pl.abb.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "textAngular": "^1.5.3"
+  }
+}
